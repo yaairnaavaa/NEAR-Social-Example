@@ -69,7 +69,7 @@ export default function SignInPage(props) {
               className="btn btn-lg w-100 btn-success"
               onClick={() => localSignIn()}
             >
-              Sign In
+              Iniciar sesión
             </button>
             <button
               className="btn btn-lg w-100 btn-danger"
